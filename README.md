@@ -2,7 +2,7 @@
 ### 안녕하세요 꾸준하게 성장하는 서버 개발자가 되고 싶은 신다은입니다 ✨
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoidoorim%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=godotengine.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fekdmss31%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=godotengine.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choidoorim&show_icons=true&theme=onedark)](https://github.com/choidoorim/github-readme-stats)
 
