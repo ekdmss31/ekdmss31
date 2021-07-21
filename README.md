@@ -6,9 +6,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdmss31&show_icons=true&theme=onedark)](https://github.com/choidoorim/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-ffb13b?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C#-E6B91E?style=flat-square&logo=C#&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AndroidStudio-3766AB?style=flat-square&logo=AndroidStudio&logoColor=white"/></a>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim)](https://github.com/choidoorim/github-readme-stats)
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
