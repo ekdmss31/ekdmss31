@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/AndroidStudio-3766AB?style=flat-square&logo=androidStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NodeJS-7E57C2?style=flat-square&logo=NodeJS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/python-lightblue?style=flat-square&logo=python&logoColor=white"/></a>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim)](https://github.com/choidoorim/github-readme-stats)
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
