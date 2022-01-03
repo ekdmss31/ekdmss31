@@ -4,7 +4,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdmss31&show_icons=true&theme=vue)](https://github.com/ekdmss31/github-readme-stats)
 
+
 <img src="https://img.shields.io/badge/Java-yellow?style=flat-square&logo=java&logoColor=white"/></a>
+
+<!--
 <img src="https://img.shields.io/badge/AndroidStudio-3766AB?style=flat-square&logo=androidStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-7E57C2?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-lightgrey?style=flat-square&logo=C&logoColor=white"/></a>
@@ -13,6 +16,7 @@
 <img src="https://img.shields.io/badge/CSS-orange?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-green?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-critical?style=flat-square&logo=React&logoColor=white"/></a>
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choidoorim)](https://github.com/choidoorim/github-readme-stats)
