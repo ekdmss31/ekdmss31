@@ -5,7 +5,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekdmss31&show_icons=true&theme=vue)](https://github.com/ekdmss31/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/Java-yellow?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/></a>
 <!--
 <img src="https://img.shields.io/badge/AndroidStudio-3766AB?style=flat-square&logo=androidStudio&logoColor=white"/></a>
